@@ -1,4 +1,10 @@
 img {
     height: 100px;
-    width: 50px;
+    width: 100px;
+}
+#wrapper {
+    text-align: center;
+}
+#board {
+    display: inline-block;
 }
